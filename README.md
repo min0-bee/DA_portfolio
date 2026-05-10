@@ -29,7 +29,3 @@
 `Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost` `Scipy` `Matplotlib` `Seaborn` `SQL`
 
 ---
-
-## 통계 공부 노트
-
-분석에서 막혔던 개념들을 직접 정리한 Velog 블로그: [velog.io/@myyoon2484](https://velog.io/@myyoon2484)
